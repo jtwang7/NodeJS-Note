@@ -4,6 +4,8 @@
 
 ✅ [MySQL基础-菜鸟教程](https://www.runoob.com/mysql/mysql-tutorial.html) `MySQL简单入门教程`
 
+✅ [egg.js基础教程](https://www.eggjs.org/zh-CN/basics) `egg.js官方文档`
+
 
 ## MAC软件
 
