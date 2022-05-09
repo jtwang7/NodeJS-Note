@@ -6,6 +6,8 @@
 
 ✅ [egg.js基础教程](https://www.eggjs.org/zh-CN/basics) `egg.js官方文档`
 
+✅ [Socket.IO](https://socket.io/) `客户端-服务端WebSocket封装`
+
 
 ## MAC软件
 
