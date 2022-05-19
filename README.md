@@ -10,6 +10,8 @@
 
 ✅ [搭建Koa-Typescript环境](https://juejin.cn/post/6864109129967861773)
 
+✅ [Node.js连接MySQL](https://www.runoob.com/nodejs/nodejs-mysql.html)
+
 ## NodeJS中间件
 
 ✅ [neat-csv](https://github.com/sindresorhus/neat-csv) `读取csv文件数据`
