@@ -12,7 +12,9 @@
 
 ✅ [Node.js连接MySQL](https://www.runoob.com/nodejs/nodejs-mysql.html)
 
-## NodeJS中间件
+## NodeJS中间件/第三方库
+
+✅ [adm-zip](https://github.com/cthackers/adm-zip) `处理zip文件`
 
 ✅ [neat-csv](https://github.com/sindresorhus/neat-csv) `读取csv文件数据`
 
