@@ -10,6 +10,8 @@
 
 ✅ [搭建Koa-Typescript环境](https://juejin.cn/post/6864109129967861773)
 
+✅ [Node.js with typescript](https://nodejs.dev/learn/nodejs-with-typescript)
+
 ✅ [Node.js连接MySQL](https://www.runoob.com/nodejs/nodejs-mysql.html)
 
 ✅ [Node.js Path模块](https://www.runoob.com/nodejs/nodejs-path-module.html)
