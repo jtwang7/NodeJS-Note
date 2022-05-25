@@ -20,7 +20,7 @@
 
 ✅ [adm-zip](https://github.com/cthackers/adm-zip) `处理zip文件`
 
-✅ [neat-csv](https://github.com/sindresorhus/neat-csv) `读取csv文件数据`
+✅ [csv](https://csv.js.org/project/getting-started/) `csv文件处理方案`
 
 ✅ [csv-writer](https://github.com/ryu1kn/csv-writer) `写入并存储为csv文件`
 
