@@ -16,6 +16,8 @@
 
 ✅ [Node.js Path模块](https://www.runoob.com/nodejs/nodejs-path-module.html)
 
+✅ [Koa项目架构搭建](https://juejin.cn/post/6844903855772303367#heading-16) `搭建一个结构清晰，功能完善的Koa项目`
+
 ## NodeJS中间件/第三方库
 
 ✅ [adm-zip](https://github.com/cthackers/adm-zip) `处理zip文件`
