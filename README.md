@@ -32,6 +32,8 @@
 
 ✅ [koa-static-cache](https://github.com/koajs/static-cache) `Koa 静态资源中间件`
 
+✅ [mongoose](https://github.com/Automattic/mongoose) `Nodejs 用于操作 MongoDB 数据库的模块`
+
 ## MAC软件
 
 🔆 [MacWk](https://macwk.com/soft/all/p1) `MAC软件下载(包含破解版)`
