@@ -30,6 +30,8 @@
 
 ✅ [koa-bodyparser](https://github.com/koajs/bodyparser) `Koa Body解析方案`
 
+✅ [koa-static-cache](https://github.com/koajs/static-cache) `Koa 静态资源中间件`
+
 ## MAC软件
 
 🔆 [MacWk](https://macwk.com/soft/all/p1) `MAC软件下载(包含破解版)`
