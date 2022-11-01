@@ -1,5 +1,11 @@
 # NodeJS-Note
 
+## Node.js API
+
+✅ [assert](https://nodejs.org/api/assert.html)
+- [Node assert 的用法](https://juejin.cn/post/6844903798138224647)
+
+
 ## 教程
 
 ✅ [MySQL基础-菜鸟教程](https://www.runoob.com/mysql/mysql-tutorial.html) `MySQL简单入门教程`
