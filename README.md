@@ -4,8 +4,7 @@
 
 ✅ [assert](https://nodejs.org/api/assert.html)
 
-✅ [fs.accessSync() / fs.access()](https://nodejs.org/api/fs.html#fsaccesssyncpath-mode)
-> 判断文件(夹)读写权限
+✅ [fs.accessSync() / fs.access()](https://nodejs.org/api/fs.html#fsaccesssyncpath-mode) 👉 判断文件(夹)读写权限
 
 ✅ [fs.existsSync()](https://nodejs.org/api/fs.html#fsexistssyncpath) 👉 判断路径是否存在
 
