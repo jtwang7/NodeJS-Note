@@ -3,7 +3,10 @@
 ## Node.js API
 
 ✅ [assert](https://nodejs.org/api/assert.html)
-- [Node assert 的用法](https://juejin.cn/post/6844903798138224647)
+
+✅ [fs.accessSync() / fs.access()](https://nodejs.org/api/fs.html#fsaccesssyncpath-mode)
+> 判断文件读写权限
+
 
 
 ## 教程
