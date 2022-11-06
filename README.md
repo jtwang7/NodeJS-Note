@@ -8,6 +8,8 @@
 
 ✅ [fs.existsSync()](https://nodejs.org/api/fs.html#fsexistssyncpath) 👉 判断路径是否存在
 
+✅ [fs.mkdirSync()](https://nodejs.org/api/fs.html#fsmkdirsyncpath-options) / [fs.mkdir()](https://nodejs.org/api/fs.html#fsmkdirpath-options-callback) 👉 创建文件夹
+
 
 
 ## 教程
